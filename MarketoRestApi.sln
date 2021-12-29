@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketo.WPF.MaterialDesign"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketo.Mvc", "Marketo.Mvc\Marketo.Mvc.csproj", "{6D86BA57-9853-4DAC-9A92-311BAE8A1E1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketo.Angular", "Marketo.Angular\Marketo.Angular.csproj", "{440E0231-E1B7-4A5E-85AA-5761B3AE0AE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketo.Angular", "Marketo.Angular\Marketo.Angular.csproj", "{440E0231-E1B7-4A5E-85AA-5761B3AE0AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketo.Mis", "Marketo.Mis\Marketo.Mis.csproj", "{8018973B-C201-4330-9159-65A879C3A23A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketo.AzureFunction", "Marketo.AzureFunction\Marketo.AzureFunction.csproj", "{BDB8EDEC-7C70-4B60-9CA6-86342877D184}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{440E0231-E1B7-4A5E-85AA-5761B3AE0AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{440E0231-E1B7-4A5E-85AA-5761B3AE0AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{440E0231-E1B7-4A5E-85AA-5761B3AE0AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8018973B-C201-4330-9159-65A879C3A23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8018973B-C201-4330-9159-65A879C3A23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8018973B-C201-4330-9159-65A879C3A23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8018973B-C201-4330-9159-65A879C3A23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB8EDEC-7C70-4B60-9CA6-86342877D184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB8EDEC-7C70-4B60-9CA6-86342877D184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB8EDEC-7C70-4B60-9CA6-86342877D184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB8EDEC-7C70-4B60-9CA6-86342877D184}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
